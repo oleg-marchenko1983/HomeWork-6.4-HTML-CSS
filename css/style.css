@@ -1,0 +1,21 @@
+
+table
+{
+    width: 450px;
+
+    border-collapse: collapse;
+
+    font: 11px Arial;
+    
+    line-height: 45px;
+}
+
+table tbody
+{
+    border-top: 1px solid grey;
+}
+
+table th
+{
+    text-align: left;
+}
